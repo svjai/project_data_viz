@@ -1,0 +1,9 @@
+Q1. How does content differ geographically?
+
+Q2. Over time, how has the type of content that is being added, changed?
+
+Q3. Which words recurred, among content Titles and Descriptions?
+
+Q4. Over a year, what changes have occurred in the overall content being added?
+
+Q5. Which is the most popular rating-category?
